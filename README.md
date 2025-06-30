@@ -1,2 +1,2 @@
 # painter-sample
-painter-sample-code
+개인 작업중인 코드입니다.
